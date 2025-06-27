@@ -2,7 +2,7 @@
 
 A browser extension that enhances competitive programming with:
 
-- 🤖 AI Assistant using DeepSeek R1 & Google Gemma via OpenRouter
+- 🤖 AI Assistant using DeepSeek R1 & Google Gemma AI models
 - 📊 Codeforces Analytics and Progress Visuals
 - ⏰ Contest Reminder System
 - 🧩 Snippet Manager with recent usage sorting
