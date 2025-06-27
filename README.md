@@ -13,7 +13,5 @@ React.js, Vite, Tailwind CSS, Chrome Extension APIs (Manifest V3), Node.js (for 
 
 ![Screenshot 2025-06-28 012213](https://github.com/user-attachments/assets/c87985d4-5485-4cbb-8336-a10b1252c05e)
 
-![Screenshot 2025-06-28 013411](https://github.com/user-attachments/assets/a80a09b3-8b9c-4fa6-918c-d3d4900ced68)
-
 ![Screenshot 2025-06-28 013737](https://github.com/user-attachments/assets/95d7b1e6-d750-4ee4-9cb2-485426ce4444)
 3-4381-ae53-aa1c1879588f)
