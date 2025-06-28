@@ -7,11 +7,9 @@ A browser extension that enhances competitive programming with:
 - ⏰ Contest Reminder System
 - 🧩 Snippet Manager with recent usage sorting
 
-## Stack
 
-React.js, Vite, Tailwind CSS, Chrome Extension APIs (Manifest V3), Node.js (for backend), OpenRouter API.
+![Screenshot 2025-06-28 012337](https://github.com/user-attachments/assets/9c01fd03-ffb3-40f6-b7bc-85af541caadf)
 
-![Screenshot 2025-06-28 012213](https://github.com/user-attachments/assets/c87985d4-5485-4cbb-8336-a10b1252c05e)
-
-![Screenshot 2025-06-28 013737](https://github.com/user-attachments/assets/95d7b1e6-d750-4ee4-9cb2-485426ce4444)
-3-4381-ae53-aa1c1879588f)
+![Screenshot 2025-06-28 013321](https://github.com/user-attachments/assets/e27606aa-c060-4a8e-b9a4-88fa8fec9a6d)
+![Screenshot 2025-06-28 012934](https://github.com/user-attachments/assets/aee79e5e-782a-4b61-9464-585716cfb46e)
+![Screenshot 2025-06-28 013207](https://github.com/user-attachments/assets/3216c53f-e513-46c6-8b9a-0253fbd5f51c)
